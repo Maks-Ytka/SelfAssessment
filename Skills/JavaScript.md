@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
+  - Object 🖐️ used
+  - this 🖐️ used
+  - arrow function 🖐️ used
+  - async function 🖐️ used
+  - call 🖐️ used
+  - bind 🖐️ used
+  - apply 🖐️ used
   - instanceof
   - ...spread
   - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - typeof 🖐️ used
+  - destructuring 🖐️ used
+  - generator 🖐️ used
+  - iterator 🖐️ used
+  - async generator 🎓 known
+  - async iterator 🎓 known
   - chaining
   - optional chaining
   - IIFE
@@ -30,7 +30,7 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void 🎓 known
   - yield
   - await
   - template literal
@@ -41,21 +41,21 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
+  - if 🎓 known
+  - while 🎓 known
+  - do..while 🎓 known
+  - for 🎓 known
+  - for..in 🎓 known
+  - for..of 🎓 known
+  - for await 🎓 known
+  - throw 🎓 known
+  - break 🎓 known
+  - continue 🎓 known
+  - import 🎓 known
+  - export  
+  - label 🎓 known
+  - try..catch 🎓 known
+  - switch 🎓 known
   - class
   - new Error
   - with
@@ -66,12 +66,12 @@
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array 🎓 known
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
+  - Map 🎓 known
+  - Set 🎓 known
   - undefined
   - null
   - Proxy
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js 👂 heard
+  - npm 🎓 known
   - prettier
-  - MDN
+  - MDN 👂 heard
