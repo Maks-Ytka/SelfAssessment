@@ -9,8 +9,8 @@
   - bind 🖐️ used
   - apply 🖐️ used
   - instanceof
-  - ...spread
-  - ...rest
+  - ...spread🎓 known
+  - ...rest 🎓 known
   - typeof 🖐️ used
   - destructuring 🖐️ used
   - generator 🖐️ used
@@ -22,24 +22,24 @@
   - IIFE
   - global
   - globalThis
-  - window
+  - window 👂 heard
   - getters and setters
   - __proto__
   - prototype
   - equality operators
-  - logical operators
-  - bitwise operators
+  - logical operators 👂 heard
+  - bitwise operators 👂 heard
   - ternary operator
   - void 🎓 known
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode 👂 heard
   - delete
-  - in
+  - in 👂 heard
   - super
-  - Symbol
-  - Reflect
+  - Symbol 👂 heard
+  - Reflect 👂 heard
 - Statements
   - if 🎓 known
   - while 🎓 known
