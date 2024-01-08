@@ -27,7 +27,7 @@
   - regular expression 👂 heard
   - interface 
   - contract 
-  - module 
+  - module 👂 heard
   - call stack 🎓 known
 - Functions
   - signature 🖐️ used
@@ -45,13 +45,13 @@
   - listener
   - compose 👂 heard
   - pipe 
-  - memoize
+  - memoize 
   - wrapper
   - functor
   - monad
   - monoid
-  - generator 
-  - coroutine
+  - generator 👂 heard
+  - coroutine 
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
@@ -71,19 +71,19 @@
   - stack 👂 heard
   - deque 👂 heard
   - tree
-  - graph
+  - graph 👂 heard
   - iterator
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing 👂 heard
 - Process & style
   - compiler 🖐️ used
   - transpiler
   - linter
   - polyfill
   - debugger
-  - garbage collection
+  - garbage collection 👂 heard
   - refactoring 🖐️ used
   - code review 🖐️ used
   - antipatterns
@@ -96,7 +96,7 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code
   - duplicate code
   - exception
