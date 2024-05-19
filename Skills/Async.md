@@ -1,17 +1,17 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
+  - Event loop 👂 heard
+  - try..catch 👂 heard
+  - Non-blocking 👂 heard
   - Async I/O
   - Thread pool
   - Pattern Reactor
-  - CAS operations
-  - epoll
+  - CAS operations 👂 heard
+  - epoll 👂 heard
   - kqueue
-  - Completion ports
-  - Event ports
+  - Completion ports 👂 heard
+  - Event ports 
   - libuv
   - Race conditions
   - Dead locks
@@ -22,28 +22,28 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
+  - Callbacks 👂 heard
+  - Callback-last-error-first 👂 heard
+  - Thenable 
+  - Promise 👂 heard
   - Async/await
   - Future
   - Deferred
   - Sync generator
   - Async Generator
-  - Async Iterator
-  - Event
+  - Async Iterator 👂 heard
+  - Event 👂 heard
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal 👂 heard
+  - Stream 👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
+  - callbackify 👂 heard
   - promisify
-  - asyncify
+  - asyncify 
   - callbacks compose
   - async compose
 - Async abstractions interfaces

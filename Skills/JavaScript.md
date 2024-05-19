@@ -17,12 +17,12 @@
   - iterator 🖐️ used
   - async generator 🎓 known
   - async iterator 🎓 known
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
+  - chaining 👂 heard
+  - optional chaining 👂 heard
+  - IIFE 👂 heard
+  - global 👂 heard
   - globalThis
-  - window
+  - window 👂 heard
   - getters and setters
   - __proto__
   - prototype
@@ -60,11 +60,11 @@
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
+  - default parameters 🖐️ used
+  - functional object 🖐️ used
 - Data structures
   - Array 🎓 known
   - mixin

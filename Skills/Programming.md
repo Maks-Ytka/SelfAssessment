@@ -25,9 +25,9 @@
   - loops 🖐️ used
   - assignment 🖐️ used
   - regular expression 👂 heard
-  - interface 
-  - contract 
-  - module 
+  - interface 👂 heard
+  - contract 👂 heard
+  - module 👂 heard
   - call stack 🎓 known
 - Functions
   - signature 🖐️ used
@@ -44,14 +44,14 @@
   - callback 🎓 known
   - listener
   - compose 👂 heard
-  - pipe 
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator 
-  - coroutine
+  - pipe 👂 heard
+  - memoize 👂 heard
+  - wrapper 👂 heard
+  - functor 👂 heard
+  - monad 👂 heard
+  - monoid 👂 heard
+  - generator 👂 heard
+  - coroutine 👂 heard
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
@@ -70,7 +70,7 @@
   - queue 👂 heard
   - stack 👂 heard
   - deque 👂 heard
-  - tree
+  - tree 👂 heard
   - graph
   - iterator
   - mutable state
@@ -80,27 +80,27 @@
 - Process & style
   - compiler 🖐️ used
   - transpiler
-  - linter
+  - linter 👂 heard
   - polyfill
-  - debugger
+  - debugger 👂 heard
   - garbage collection
   - refactoring 🖐️ used
   - code review 🖐️ used
   - antipatterns
   - paradigm 🖐️ used
   - algorithm 🖐️ used
-  - magic numbers
-  - hardcode
-  - complexity
+  - magic numbers 
+  - hardcode 👂 heard
+  - complexity 👂 heard
   - decomposition
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code
   - duplicate code
   - exception
-  - return early
+  - return early 👂 heard
   - unittest
   - git 🖐️ used
   - github 👂 heard
